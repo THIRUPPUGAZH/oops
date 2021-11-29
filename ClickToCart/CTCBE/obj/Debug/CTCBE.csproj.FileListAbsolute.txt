@@ -1,0 +1,6 @@
+D:\MyShoping\ClickToCart\CTCBE\bin\Debug\CTCBE.dll
+D:\MyShoping\ClickToCart\CTCBE\bin\Debug\CTCBE.pdb
+D:\MyShoping\ClickToCart\CTCBE\obj\Debug\CTCBE.csproj.AssemblyReference.cache
+D:\MyShoping\ClickToCart\CTCBE\obj\Debug\CTCBE.csproj.CoreCompileInputs.cache
+D:\MyShoping\ClickToCart\CTCBE\obj\Debug\CTCBE.dll
+D:\MyShoping\ClickToCart\CTCBE\obj\Debug\CTCBE.pdb

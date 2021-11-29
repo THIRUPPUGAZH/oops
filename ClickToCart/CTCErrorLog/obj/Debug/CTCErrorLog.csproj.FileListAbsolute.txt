@@ -1,0 +1,6 @@
+D:\MyShoping\ClickToCart\CTCErrorLog\bin\Debug\CTCErrorLog.dll
+D:\MyShoping\ClickToCart\CTCErrorLog\bin\Debug\CTCErrorLog.pdb
+D:\MyShoping\ClickToCart\CTCErrorLog\obj\Debug\CTCErrorLog.csproj.AssemblyReference.cache
+D:\MyShoping\ClickToCart\CTCErrorLog\obj\Debug\CTCErrorLog.csproj.CoreCompileInputs.cache
+D:\MyShoping\ClickToCart\CTCErrorLog\obj\Debug\CTCErrorLog.dll
+D:\MyShoping\ClickToCart\CTCErrorLog\obj\Debug\CTCErrorLog.pdb

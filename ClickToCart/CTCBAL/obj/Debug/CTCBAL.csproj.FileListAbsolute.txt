@@ -1,0 +1,11 @@
+D:\MyShoping\ClickToCart\CTCBAL\bin\Debug\CTCBAL.dll
+D:\MyShoping\ClickToCart\CTCBAL\bin\Debug\CTCBAL.pdb
+D:\MyShoping\ClickToCart\CTCBAL\obj\Debug\CTCBAL.csproj.AssemblyReference.cache
+D:\MyShoping\ClickToCart\CTCBAL\obj\Debug\CTCBAL.csproj.CoreCompileInputs.cache
+D:\MyShoping\ClickToCart\CTCBAL\obj\Debug\CTCBAL.dll
+D:\MyShoping\ClickToCart\CTCBAL\obj\Debug\CTCBAL.pdb
+D:\MyShoping\ClickToCart\CTCBAL\bin\Debug\CTCBE.dll
+D:\MyShoping\ClickToCart\CTCBAL\bin\Debug\CTCDAL.dll
+D:\MyShoping\ClickToCart\CTCBAL\bin\Debug\CTCBE.pdb
+D:\MyShoping\ClickToCart\CTCBAL\bin\Debug\CTCDAL.pdb
+D:\MyShoping\ClickToCart\CTCBAL\obj\Debug\CTCBAL.csproj.CopyComplete

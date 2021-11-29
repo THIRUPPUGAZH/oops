@@ -1,0 +1,9 @@
+D:\MyShoping\ClickToCart\CTCDAL\bin\Debug\CTCDAL.dll
+D:\MyShoping\ClickToCart\CTCDAL\bin\Debug\CTCDAL.pdb
+D:\MyShoping\ClickToCart\CTCDAL\obj\Debug\CTCDAL.csproj.AssemblyReference.cache
+D:\MyShoping\ClickToCart\CTCDAL\obj\Debug\CTCDAL.csproj.CoreCompileInputs.cache
+D:\MyShoping\ClickToCart\CTCDAL\obj\Debug\CTCDAL.dll
+D:\MyShoping\ClickToCart\CTCDAL\obj\Debug\CTCDAL.pdb
+D:\MyShoping\ClickToCart\CTCDAL\bin\Debug\CTCBE.dll
+D:\MyShoping\ClickToCart\CTCDAL\bin\Debug\CTCBE.pdb
+D:\MyShoping\ClickToCart\CTCDAL\obj\Debug\CTCDAL.csproj.CopyComplete

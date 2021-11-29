@@ -1,0 +1,31 @@
+﻿body {
+    font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    color: #008080;
+    font-size: 12px;
+    background: #196666 url(/images/classy_fabric.png);
+}
+h3 {
+    font-family: Calibri;
+    font-size: 25pt;
+    font-style: normal;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    text-decoration: underline
+}
+
+table {
+    font-family: Calibri;
+    color: #008080;
+    font-size: 11pt;
+    font-style: normal;
+    font-weight: bold;
+    text-align:;
+    background-color: black;
+    border-collapse: collapse;
+    border: 2px solid navy
+}
+
+    table.inner {
+        border: 0px
+    }
